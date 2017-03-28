@@ -6,7 +6,7 @@
 #include <iostream>
 #include <cstring>
 #include <cstdarg>
-#include "..//FormatBuffer.hpp"
+#include "..//Trunk//FormatBuffer.hpp"
 //#include "..//Tools.hpp"
 
 //TODO: Many setters and no getters, add ios::app with Boost streams
